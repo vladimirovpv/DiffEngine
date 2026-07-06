@@ -1,6 +1,16 @@
-# SymDCT
-A symbolic toolkit for analytical diffusion coefficient tensor calculations in crystals from atomic-scale kinetic data.
+<p align="center">
+  <img src="images/SymDCT_Logo.png" alt="DiffEngine logo" width="100%"/>
+</p>
 
+<h1 align="center">SymDCT</h1>
+
+
+<p align="center">
+  A symbolic toolkit for analytical diffusion coefficient tensor calculations
+  in crystals from atomic-scale kinetic data.
+</p>
+
+---
 # What is SymDCT?
 SymDCT is
 - graph-based
@@ -14,6 +24,8 @@ SymDCT is
 # Scientific Background
 
 # Current Status
+> **Status:** Pre-release / active development. First public version (v0.1.0)
+> targeted for **September 1, 2026**. See [ROADMAP.md](symdct/ROADMAP.md) for details.
 
 # Roadmap
 
