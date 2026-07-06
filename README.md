@@ -1,2 +1,30 @@
-# DiffEngine
-The open scientific core of the DiffEngine platform: an open-source framework for transport theory, diffusion in crystalline materials, graph-based methods, and atomistic simulations, designed for research and education.
+# SymDCT
+SymDCT is
+- graph-based
+- symmetry-based
+- exact
+- designed for complex crystals
+- suitable for first-principles or ML interaction potential based diffusion calculations
+
+# Symmetry-based Diffusion Coefficient Toolkit
+
+# What is SymDCT?
+
+# Main Features
+
+# Scientific Background
+
+# Current Status
+
+# Roadmap
+
+# Installation
+
+# Examples
+
+# Documentation
+
+# Citation
+
+# Contact
+Email: pavel.vladimirov@kit.edu; pavel.v.vladimirov1962@gmail.com
