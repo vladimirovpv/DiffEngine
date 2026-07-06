@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/DiffEngine_Logo.png" alt="DiffEngine logo" width="200"/>
+  <img src="images/DiffEngine_Logo.png" alt="DiffEngine logo" width="400"/>
 </p>
 
 <h1 align="center">DiffEngine</h1>
