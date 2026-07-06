@@ -1,0 +1,14 @@
+[project]
+name = "diffengine-workspace"
+version = "0.0.0"
+requires-python = ">=3.11"
+dependencies = ["symdct"]
+
+[dependency-groups]
+dev = ["pytest"]
+
+[tool.uv.workspace]
+members = ["symdct"]
+
+[tool.uv.sources]
+symdct = { workspace = true }
