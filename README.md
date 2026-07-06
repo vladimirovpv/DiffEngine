@@ -1,30 +1,7 @@
-# SymDCT
-SymDCT is
-- graph-based
-- symmetry-based
-- exact
-- designed for complex crystals
-- suitable for first-principles or ML interaction potential based diffusion calculations
+# DiffEngine
 
-# Symmetry-based Diffusion Coefficient Toolkit
+DiffEngine is a uv workspace that hosts multiple independent Python projects in a single repository.
 
-# What is SymDCT?
+Current workspace members:
 
-# Main Features
-
-# Scientific Background
-
-# Current Status
-
-# Roadmap
-
-# Installation
-
-# Examples
-
-# Documentation
-
-# Citation
-
-# Contact
-Email: pavel.vladimirov@kit.edu; pavel.v.vladimirov1962@gmail.com
+- [`symdct/`](./symdct) — Symmetry-based Diffusion Coefficient Toolkit (see [`symdct/README.md`](./symdct/README.md)).
